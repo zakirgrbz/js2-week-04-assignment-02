@@ -1,0 +1,3 @@
+const isTheWordSplit = () => {};
+
+export { isTheWordSplit };
